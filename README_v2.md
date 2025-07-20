@@ -33,11 +33,6 @@ Kullanıcı dostu bir arayüze sahip olarak temel rezervasyon ihtiyaçlarının 
 
 ---
 
-## 📊 Use Case Diyagram
-
-_Burada diyagram görseli yer alacak._
-
----
 
 ## ✅ İşlevsel Gereksinimler
 
@@ -76,13 +71,6 @@ _Burada diyagram görseli yer alacak._
 
 ---
 
-## 🗂️ Veri Tabanı Tasarımı
-
-Tablolar ve Temel Alanlar:
-
-_(Buraya ER Diyagramı veya tablo yapısı eklenebilir)_
-
----
 
 ## 📝 Lisans
 
